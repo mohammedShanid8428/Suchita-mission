@@ -12,7 +12,7 @@ export default function Header() {
         <button className="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700">
           Register / Login
         </button>
-        <img src="/logo2.png" alt="Logo" className="h-10" />
+        <img src="/logo2.png" alt="" className="h-10" />
       </nav>
     </header>
   );
